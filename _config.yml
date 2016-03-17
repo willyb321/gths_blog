@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: wbwilliam7@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: willyb321
   instagram:
   linkedin:
   pinterest:
   rss: a# just type anything here for a working RSS icon
   twitter: willyb321
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: user/tehsuperwilly# channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
